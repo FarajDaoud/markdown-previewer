@@ -63,6 +63,7 @@ Block Quotes:
 Tables:
 
 First Name | Last Name
+------------ | ------------- 
 Faraj | Daoud
 Jane | Doe
 
